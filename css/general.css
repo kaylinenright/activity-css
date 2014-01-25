@@ -1,0 +1,67 @@
+/* CSS Document */
+
+html {
+      font-family: Ariel, Helvetica, sans-serif;
+}
+
+body {
+    background-color:#f2aed0;
+    border-top: 2px dashed #fff; 
+    border-bottom: 2px dashed #fff
+ 
+}
+
+h1 {
+    font-family:Baskerville; "Helvetica", "serif; 
+    font-size: 3rem; /* 1 rem= 16px */
+    font-weight:normal;
+    color: #fff
+  
+
+ 
+}
+
+p
+li {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    
+}
+
+h1 + p  {
+    font-size: 1.4rem;
+    line-height: 1.75rem; 
+    color: #f8d6e7
+}
+
+p strong {
+    color: #fff
+}
+
+
+h2 {
+    color: #fff
+}
+
+
+strong {
+    font-weight:bold;
+}
+
+em {
+    font-style:italic;
+}
+
+hr {
+    border:solid 4px #e55ea2;
+}
+ul,
+ol {
+   
+}
+
+li {
+    color: #e55ea2;
+}
+
+
